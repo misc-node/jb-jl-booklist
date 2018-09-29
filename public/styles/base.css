@@ -1,10 +1,12 @@
 * {
   background-color: pink;
+  font-family: Koho;
 }
 
 h1 {
   font-size: 40px;
   text-align: center;
+  font-family: Koho;  
 }
 
 h2 {
