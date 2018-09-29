@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <%- include('../../layout/head') %>
+    </head>
+    <body>
+    <header>
+        <h1>This Book Is Saved</h1>
+
+    </header>
+    <main>
+        <nav>
+        <ul><a href="/">Home</a></ul>
+        </nav>
+            <div>
+                <section>
+                    <p>Title: <%=bookSaved.title %> </p>
+                    <p>Author: <%=bookSaved.author %> </p>
+                    <p> <%=bookSaved.isbn %> </p>
+                    <img src="<%=bookSaved.image_url%>" alt="book image">
+                    <p>Description: <%=bookSaved.description %> </p>
+                    <p>Bookshelf: <%=bookSaved.bookshelf %> </p>
+                </section>
+
+            </div>
+    </main>
+    </body>
+</html>
+

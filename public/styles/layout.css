@@ -1,0 +1,36 @@
+/* * {
+    outline: 1px dotted red;
+} */
+
+body {
+    margin-top:30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 480px;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    margin-top: 30px;
+}
+
+nav {
+    /* grid-column: 1/4;
+    grid-row: 1; */
+}
+
+.search-by {
+    /* grid-column: 1/4;
+    grid-row: 2/3; */
+    /* text-align: center; */
+}
+
+.hidden {
+    display: none;
+}
+
+
+
+
+

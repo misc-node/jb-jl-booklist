@@ -1,0 +1,57 @@
+* {
+  background-color: pink;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+p {
+  padding-left: 50px;
+  padding-bottom: 8px;
+}
+
+form {
+  margin-top: 40px;
+  margin-right: 40px;
+  margin-bottom: 50px;
+  width: 400px;
+}
+
+img {
+  width: 100px;
+  padding-left: 50px;
+  padding-right: 300px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+button {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border-radius: 20%;
+}
+
+ul {
+  list-style: none;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 420px;
+}
+
+
+
+
+
+
+
